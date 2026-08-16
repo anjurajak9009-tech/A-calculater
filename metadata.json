@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Vault",
+  "description": "Secure Calculator Vault with private media & notes storage, stealth disguise, and powerful App Lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
